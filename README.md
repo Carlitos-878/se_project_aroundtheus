@@ -51,4 +51,4 @@ Social Engagement:
 
 ## Find A Bug?
 
-If you run into any type of bug throught out this project by any mean you can Content me in on ![Github] <a href="https://github.com/Carlitos-878/se_project_aroundtheus" >
+If you run into any type of bug throught out this project by any mean you can Content me in on [Github](https://github.com/Carlitos-878/se_project_aroundtheus)
