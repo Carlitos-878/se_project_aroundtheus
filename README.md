@@ -9,7 +9,7 @@ achievements, along with a short brief description that you want to share.
 
 <a href="h">
 
-![Top Laptop POV]<img width="1427" alt="Image" src="https://github.com/user-attachments/assets/3b3188dc-d60c-47e5-97a5-8943f858f683" />
+Top Laptop POV <img width="1427" alt="Image" src="https://github.com/user-attachments/assets/3b3188dc-d60c-47e5-97a5-8943f858f683" />
 ![Bottom Laptop POV](Laptoppovb.png)
 ![Top Tablet POV](tabletpov.png)
 ![Bottom Tablet POV](tabletpovb.png)
