@@ -5,9 +5,11 @@
 In this project I created a website where you can upload pictures of your accomplishments, travels, or any significant
 achievements, along with a short brief description that you want to share.
 
+[link to my project]https://carlitos-878.github.io/se_project_aroundtheus/
+
 ## Watch The Video To Understand A Little More!!
 
-[Watch Here](https://www.youtube.com/watch?v=bnqZMLHXvYk)
+[Watch Here](https://www.youtube.com/watch?v=bnqZMLHXvYk&t=1s)
 
 - Top Laptop POV:
   <img width="1427" alt="Image" src="https://github.com/user-attachments/assets/3b3188dc-d60c-47e5-97a5-8943f858f683" />
@@ -16,7 +18,7 @@ achievements, along with a short brief description that you want to share.
 - Top Tablet POV:
   <img width="895" alt="Image" src="https://github.com/user-attachments/assets/e920f698-2924-4192-8c1a-34b56b8e352d" />
 - Bottom Tablet POV:
-   <img width="889" alt="Image" src="https://github.com/user-attachments/assets/484072d6-d0eb-4e4f-ab45-010bcbdbe0af" />
+  <img width="889" alt="Image" src="https://github.com/user-attachments/assets/484072d6-d0eb-4e4f-ab45-010bcbdbe0af" />
 - Top Mobile POV:
   <img width="480" alt="Image" src="https://github.com/user-attachments/assets/0ceb1296-d66b-4925-a08c-47741ee2f06c" />
 - Center Mobile POV:
@@ -52,3 +54,4 @@ Social Engagement:
 ## Find A Bug?
 
 If you run into any type of bug throught out this project by any mean you can Content me in on [Github](https://github.com/Carlitos-878/se_project_aroundtheus)
+
