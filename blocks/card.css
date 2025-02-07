@@ -1,0 +1,50 @@
+.card {
+  max-width: 282px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card__images {
+  height: 282px;
+  width: 282px;
+  object-fit: cover;
+  display: block;
+}
+
+.card__content {
+  background-color: white;
+  color: black;
+  max-width: 282px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 20px;
+}
+
+.card__title {
+  font-size: 24px;
+  line-height: 29px;
+  margin: 0px;
+  max-width: 219px;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: bold;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.card__button {
+  width: 21px;
+  height: 18px;
+  border: none;
+  background-image: url(../images/like-button.svg);
+  background-position: center;
+  background-color: transparent;
+  background-size: 21px;
+  background-repeat: no-repeat;
+}
+
+.card__button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
